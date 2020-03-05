@@ -1,1 +1,5 @@
-# AITS2
+# Annamacharya
+## Institute
+### Technology &
+#### Sciences
+##### (Autonomous)
