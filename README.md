@@ -22,4 +22,7 @@
     ii. Drum stick 2
     
     ### Images
-    !.["Annamacharya"](/https://anudinam.org/2012/05/17/annamacharya-and-his-devotion/)
+    !.["Annamacharya"](https://anudinam.org/wp-content/uploads/2012/05/Annamacharya.jpg)
+
+### Links
+[GtHub](http://github.com)
