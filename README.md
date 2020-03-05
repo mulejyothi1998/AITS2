@@ -1,5 +1,5 @@
 # Annamacharya
-## Institute
+## Institute of
 ### Technology &
 #### Sciences
 ##### (Autonomous)
